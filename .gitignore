@@ -1,0 +1,12 @@
+.env
+
+go.mod
+go.sum
+
+/bin/
+/pkg/
+
+.idea/
+*.iml
+
+.DS_Store
